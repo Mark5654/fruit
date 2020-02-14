@@ -52,7 +52,7 @@ export default {
     }
     .center{
         flex:1;
-        background: sandybrown;
+        /*background: sandybrown;*/
     }
     .icon {
   width: 1rem;
